@@ -41,9 +41,9 @@ I recently completed Citi's Markets Quantitative Analysis (MQA) virtual experien
 - Managed **operational risk** through automation, robust IT infrastructure, audits, and staff training.
 - Applied strategies to real-life scenarios, such as hedging against coffee price increases, mitigating supplier credit risk, and reducing trading errors.
 ## Certificate of Completion
-![MQA Certificate]([Market%20Quantitative%20Analysis%20Certificate.png](https://www.theforage.com/completion-certificates/8eNRcRqBZM9HLvwGw/fAuNBibfF4dzrgtDY_8eNRcRqBZM9HLvwGw_aXM3Xh4DNSNAw9pzW_1772467761488_completion_certificate.pdf))
+[MQA Certificate](https://www.theforage.com/completioncertificates/8eNRcRqBZM9HLvwGw/fAuNBibfF4dzrgtDY_8eNRcRqBZM9HLvwGw_aXM3Xh4DNSNAw9pzW_1772467761488_completion_certificate.pdf)
 
 
 
 ## Forage Simulation
-Experience the simulation yourself: [Citi MQA Forage Simulation]([https://www.theforage.com/simulations/citi/global-quantitative-analysis-analyst-6b4m](https://www.theforage.com/simulations/citi/global-quantitative-analysis-analyst-6b4m))
+Experience the simulation yourself: [Citi MQA Forage Simulation](https://www.theforage.com/simulations/citi/global-quantitative-analysis-analyst-6b4m)
