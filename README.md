@@ -42,7 +42,7 @@ I recently completed Citi's Markets Quantitative Analysis (MQA) virtual experien
 - Applied strategies to real-life scenarios, such as hedging against coffee price increases, mitigating supplier credit risk, and reducing trading errors.
   [To preview the Task](https://github.com/ron0496/Forage-Citi-Markets-Quantitative-Analysis-Job-Simulation-Coffee-Contract-Pricing-Calculations/blob/main/task%204.pdf)
 ## Certificate of Completion
-[MQA Certificate](https://www.theforage.com/completioncertificates/8eNRcRqBZM9HLvwGw/fAuNBibfF4dzrgtDY_8eNRcRqBZM9HLvwGw_aXM3Xh4DNSNAw9pzW_1772467761488_completion_certificate.pdf)
+[MQA Certificate](https://github.com/ron0496/Forage-Citi-Markets-Quantitative-Analysis-Job-Simulation-Coffee-Contract-Pricing-Calculations/blob/main/Certificate%20of%20completion.pdf)
 
 
 
