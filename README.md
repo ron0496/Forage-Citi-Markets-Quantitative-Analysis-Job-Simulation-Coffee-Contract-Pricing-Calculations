@@ -18,7 +18,7 @@ I recently completed Citi's Markets Quantitative Analysis (MQA) virtual experien
   - **Monte Carlo Simulations** to forecast a range of potential outcomes
 - Learned how changes in supply, demand, weather, and geopolitical events impact pricing.
 - Built an **analytical framework for coffee futures**, incorporating volatility, storage costs, and interest rates.
-  [To preview the Task](https://github.com/Samuelibitola/Citi-MQA-Simulation/blob/main/Step%20by%20step%20guide%20(1).pdf)
+  [To preview the Task](https://github.com/ron0496/Forage-Citi-Markets-Quantitative-Analysis-Job-Simulation-Coffee-Contract-Pricing-Calculations/blob/main/Task%202.pdf)
 
 ### Task 3: Hedging and Structuring Securities
 - Developed **hedging strategies** using derivatives:
