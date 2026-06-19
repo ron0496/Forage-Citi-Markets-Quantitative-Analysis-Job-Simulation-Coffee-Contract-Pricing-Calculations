@@ -30,7 +30,7 @@ I recently completed Citi's Markets Quantitative Analysis (MQA) virtual experien
   - **Digital options** for high-risk investors
   - **ETFs** for portfolio diversification
 - Conducted **quantitative analysis** for scenario planning and risk mitigation.
-    [To preview the Task](https://github.com/Samuelibitola/Citi-MQA-Simulation/blob/main/Task%203%20Risk%20Management%20Analysis.pdf)
+    [To preview the Task](https://github.com/ron0496/Forage-Citi-Markets-Quantitative-Analysis-Job-Simulation-Coffee-Contract-Pricing-Calculations/blob/main/Task%203.pdf)
 
 ### Task 4: Managing Risk Across Market Trade Units
 - Measured and monitored market risk using:
